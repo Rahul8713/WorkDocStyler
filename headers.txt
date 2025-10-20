@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+date: Mon, 20 Oct 2025 04:11:16 GMT
+server: uvicorn
+x-delta-report: {"Heading 1": 1, "Normal": 7, "Heading 2": 1, "Normal Bullet": 2, "Heading 3": 1, "Heading 4": 1}
+content-type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+Transfer-Encoding: chunked
+
